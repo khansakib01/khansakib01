@@ -14,9 +14,9 @@ Here are some of the technologies and tools I'm familiar with:
 
 - 💡 JavaScript
 - 💡 React.js
-- 💻 Node.js
-- 🌐 Express.js
-- 📦 MongoDB
+- 💻 java
+- 🌐 c/c++
+- 📦 HTML/CSS
 - 🌟 And more to come!
 
 ## 🌐 Connect with Me
