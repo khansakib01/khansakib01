@@ -1,10 +1,9 @@
 # Hello, I'm Sakib Khan
 
-I'm a passionate MCA student who's enthusiastic about learning new technologies and growing my career as a web developer. JavaScript is my current focus, and I'm excited about the endless possibilities it offers.
+I'm a passionate developer who's enthusiastic about learning new technologies and growing my career as a web developer. React is my current focus, and I'm excited about the endless possibilities it offers.
 
 ## 🚀 About Me
 
-- 🌱 I'm currently pursuing my Master's in Computer Applications (MCA).
 - 💻 I'm passionate about web development and technologies.
 - 📚 I'm constantly learning and exploring new things in the tech world.
 
@@ -17,6 +16,10 @@ Here are some of the technologies and tools I'm familiar with:
 - 💻 java
 - 🌐 c/c++
 - 📦 HTML/CSS
+- 💡 Tailwind CSS
+- 💡 SQL
+- 💻 Data Structure and Algorithm
+- 📦 RESTfulL API
 - 🌟 And more to come!
 
 ## 🌐 Connect with Me
